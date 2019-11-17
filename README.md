@@ -31,10 +31,13 @@ I have few apps like Zoom, my bank app, airbnb, lyft venmo that I use once a mon
   - Google Fi - *I manage my phone service with Google here*
 - 1Password - *a password manager for forgetful people like me.*
 - Adblock X - *adblocker for Safari. Mostly use it to speed up web pages by blocking ads from loading.*
-- DayOne - *the app I use for journaling almost everyday.*
+- DayOne - *the app I use for journaling almost everyday.* I've used it for nearly 5 years. It has an export to PDF option which is nice
+- Nofeed - block out newsfeeds from Facebook, Twitter, Instagram. It's a safeguard so I don't waste time. If I do really need to see a newsfeed I turn if off.
+- Mixcam - dual camera for my iPhone
 - Messenger - *I use this over facebook.com for checking my messages to avoid distractions*
 - Spotify - *my music service*
 - My Fitness Pal - *Food tracker that allows me to simply scan the label on the food you eat and that's it!*
+- Multitimer app - I create timers with this app.
 - Liberate - *a distraction blocker.*
 - Notion - *similar to Google Drive, but much more flexible, customizable and amazing!*
 - Slack - *keep up to date with my close friends*
@@ -50,6 +53,12 @@ Why not just keep the app on your phone?
 - Removing the app from my phone means it requires me to take extra steps before using the app and think why I want to use it.
 
 #### Settings
+- Grayscale: I use my iPhone 99% of the time on Grayscale mode. This great at reducing distractions since colors don't stand out.
+- Safari
+  - Absolutely blank tabs. This is to avoid unconscious browsing. I don't want my phone suggesting searches or triggering thoughts. To achieve this the following were turned off in safar settings:
+    - no bookmarks (all were deleted)
+    - no favorites (all were deleted)
+    - siri suggestions turned off
 - Notifications for all apps are off except:
   - Calendar
   - Messages
@@ -59,6 +68,9 @@ Why not just keep the app on your phone?
 
 ## Resources
 - [Deep Work by Cal Newport](https://gist.github.com/cliffordfajardo/0c2ce010a52eb1056bf23031b7185070) was one of the books that changed my life for the better.
+- [Humanetech](https://humanetech.com/)
+- [How to Setup your iPhone for Productivity Focus and Your Own Longevity](https://medium.com/better-humans/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8#9076)
+
 
 ## Related
 - [My Knowledge Wiki](https://github.com/cliffordfajardo/my-knowledge-wiki) - where I list other setups, resources and links that are important to me.
@@ -67,4 +79,3 @@ Why not just keep the app on your phone?
 > Thanks for reading! I'm mostly hang out on [twitter](https://twitter.com/cliffordfajard0), let's talk!
 
 <a href="https://twitter.com/cliffordfajard0"><img src="https://img.shields.io/twitter/follow/cliffordfajard0?style=social" alt="Twitter Profile Badge"/></a>
-
